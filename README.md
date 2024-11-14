@@ -1,4 +1,4 @@
-# Softwre-Project
+# SE-activity
 
 This is a test run to get user familiar with github 
 
